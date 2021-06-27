@@ -3,7 +3,7 @@
     * gcloud auth login
     * gcloud config set project project_id
 * Get the code
-    * git clone 
+    * git clone https://github.com/thechetantalwar/gcp-appengine-sample-nodejs
     * cd gcp-appengine
 * Deploy the code on APP ENGINE
     * gcloud app deploy
